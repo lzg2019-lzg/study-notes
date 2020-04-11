@@ -1,4 +1,8 @@
+
 #!/bin/sh
 
-str=""
-[ -z $str ] && echo "empty"
+echo "hello world"
+
+
+echo "hello" >> a.txt
+
