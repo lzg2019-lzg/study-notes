@@ -1,8 +1,6 @@
 
 #!/bin/sh
 
-echo "hello world"
-
-
-echo "hello" >> a.txt
-
+echo $# $0 $1 $2 $3
+shift
+echo $# $0 $1 $2 $3
