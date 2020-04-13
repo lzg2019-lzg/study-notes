@@ -16,3 +16,7 @@
 <font face="仿宋"> 增加 2.零距离初体验uboot/1.x210官方uboot配置编译实践.md
 
 <font face="仿宋"> 增加 2.零距离初体验uboot/2.uboot源码目录分析.md
+
+#### 2020/4/13
+
+<font face="仿宋"> 增加 3.uboot配置和编译过程详解/1.uboot主makefile分析1.md
